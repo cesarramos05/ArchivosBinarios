@@ -1,0 +1,7 @@
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+C:\Users\tec21\OneDrive\Documentos\GitHub\ArchivosBinarios\ArchivosBinarios\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
